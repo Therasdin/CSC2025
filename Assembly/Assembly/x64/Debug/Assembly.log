@@ -1,0 +1,5 @@
+﻿  LaneAssembler.c
+C:\Users\lanee\source\repos\Assembly\LaneAssembler.c(417,34): warning C4013: 'valueFrom' undefined; assuming extern returning int
+C:\Users\lanee\source\repos\Assembly\LaneAssembler.c(329,7): warning C4101: 'temp': unreferenced local variable
+C:\Users\lanee\source\repos\Assembly\LaneAssembler.c(146): warning C4715: 'getValue': not all control paths return a value
+  Assembly.vcxproj -> C:\Users\lanee\source\repos\Assembly\x64\Debug\Assembly.exe
